@@ -56,8 +56,3 @@
 - [Developer Collaboration](#developer-collaboration)
     - [FUZZILLI: Fuzzing for JavaScript JIT Compiler Vulnerabilities (NDSS 2023)](#fuzzilli-fuzzing-for-javascript-jit-compiler-vulnerabilities-ndss-2023)
     - [FRAMESHIFTER: Manipulating HTTP/2 Frame Sequences with Fuzzing (Usenix Security2020)](#frameshifter-manipulating-http2-frame-sequences-with-fuzzing-usenix-security2020)
-
-##### Page Traffic Analysis
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=lv-pnJIiq6psRp_b6rbzbHVqY98ziz-RPU0MjN2FBhg&cl=ffffff&w=a"></script>
-
