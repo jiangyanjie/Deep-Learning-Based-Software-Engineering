@@ -1,19 +1,19 @@
 # Recent Papers Related To Fuzzing
 
 1. This website is only used for collecting and grouping the related paper. If there are any paper need to be updated, you can contribute PR.
-2. Please check the web [https://wcventure.github.io/FuzzingPaper/](https://wcventure.github.io/FuzzingPaper/), as the `.md` file shown in Github is cropped.
+2. Please check the web [https://jiangyanjie.github.io/deepLearningBasedSoftwareEngineeringPaper/](https://jiangyanjie.github.io/deepLearningBasedSoftwareEngineeringPaper/), as the `.md` file shown in Github is cropped.
 3. Advertisement: [Our ICTT (Guangzhou) research group](https://xidian-ictt-gz.github.io/) is accepting applications for master’s, doctoral, postdoctoral, and research assistant positions. We welcome hardworking, serious, and innovative young people who are interested in joining our research group.
 
 
 ## Contributors
 
-<a href="https://github.com/wcventure/FuzzingPaper/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=wcventure/FuzzingPaper" />
+<a href="https://github.com/jiangyanjie/deepLearningBasedSoftwareEngineeringPaper/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=jiangyanjie/deepLearningBasedSoftwareEngineeringPaper" />
 </a>
 
 ## Starchart
 
-[![Star History Chart](https://api.star-history.com/svg?repos=wcventure/FuzzingPaper&type=Date)](https://star-history.com/#wcventure/FuzzingPaper&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=jiangyanjie/deepLearningBasedSoftwareEngineeringPaper&type=Date)](https://star-history.com/#jiangyanjie/deepLearningBasedSoftwareEngineeringPaper&Date)
 
 # All Papers (Classification according to Publication)
 - **ESEC/FSE 2024**
@@ -3415,7 +3415,7 @@ of rt-Linux, which is one of the most widely used RTOS. Compared to the state-of
 
 * <img src="image/pdf_24px.png">[Paper](https://www.scedt.tees.ac.uk/s.qin/papers/icse2020-uafl.pdf)
 
-* <img src="image/ppt_24px.png">[Slides](https://wcventure.github.io/pdf/ICSE2020_UAFL_Slides.pdf)
+* <img src="image/ppt_24px.png">[Slides](https://jiangyanjie.github.io/pdf/ICSE2020_UAFL_Slides.pdf)
 
 **Abstract:** Existing coverage-based fuzzers usually use the individual control flow graph (CFG) edge coverage 
 to guide the fuzzing process, which has shown great potential in finding vulnerabilities.
@@ -3708,11 +3708,11 @@ performance bugs in Markdown compilers. We identify that the ways Markdown compi
 
 * <img src="image/youtube.png">[Video](https://youtu.be/fXxx46Oj-_s)
 
-* <img src="image/pdf_24px.png">[Paper](https://wcventure.github.io/pdf/ICSE2020_MemLock.pdf)
+* <img src="image/pdf_24px.png">[Paper](https://jiangyanjie.github.io/pdf/ICSE2020_MemLock.pdf)
 
-* <img src="image/ppt_24px.png">[Slides](https://wcventure.github.io/pdf/ICSE2020_MemLock_Slides.pdf)
+* <img src="image/ppt_24px.png">[Slides](https://jiangyanjie.github.io/pdf/ICSE2020_MemLock_Slides.pdf)
 
-* <img src="image/github_24px.png">[Code](https://github.com/wcventure/MemLock-Fuzz)
+* <img src="image/github_24px.png">[Code](https://github.com/jiangyanjie/MemLock-Fuzz)
 
 
 **Abstract:** Uncontrolled memory consumption is a kind of critical software security weaknesses.
