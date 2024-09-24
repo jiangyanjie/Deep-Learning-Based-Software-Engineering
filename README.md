@@ -14,7 +14,7 @@ BIBTEX</button> in SCIENCE CHINA Information Sciences. Although we have tried ou
 
 We warmly welcome authors of relevant papers to actively submit their work to this website. They may accomplish it by any of the following methods:
 1. Post an issue for the website by clicking [`HERE`](https://github.com/jiangyanjie/DeepLearningBasedSoftwareEngineeringPaper/issues).
-2. Submit a **[`Pull Request`](https://github.com/jiangyanjie/DeepLearningBasedSoftwareEngineeringPaper/pulls)** to update the website.
+2. Submit a [`Pull Request`](https://github.com/jiangyanjie/DeepLearningBasedSoftwareEngineeringPaper/pulls) to update the website.
 3. Send your work via email to `yanjiejiang@pku.edu.cn`
 
 # All Papers (Classification according to Subject)
