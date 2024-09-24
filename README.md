@@ -153,10 +153,13 @@ We warmly welcome authors of relevant papers to actively submit their work to th
     - [Improving source code search with natural language phrasal representations of method signatures *(ASE, 2011)*](https://ieeexplore.ieee.org/abstract/document/6100115/)
     - [Sourcerer: a search engine for open source code supporting structure-based search *(OOPSLA, 2006)*](https://dl.acm.org/doi/abs/10.1145/1176617.1176671)
 
+
 - **Code Summarization**
     - [InstruGuard: Find and Fix Instrumentation Errors for Coverage-based Greybox Fuzzing (ASE 2021)](#instruguard-find-and-fix-instrumentation-errors-for-coverage-based-greybox-fuzzing-ase-2021)
     - [RIFF: Reduced Instruction Footprint for Coverage-Guided Fuzzing (USENIX ATC 2021)](#riff-reduced-instruction-footprint-for-coverage-guided-fuzzing-usenix-atc-2021)
-    - 
+ 
+
+
 - **Software Refactoring**
     - [Just-in-time code duplicates extraction *(Information and Software Technology, 2023)*](https://www.sciencedirect.com/science/article/pii/S095058492300023X)
     - [An automated approach to extracting local variables *(ESEC/FSE, 2023)*](https://dl.acm.org/doi/abs/10.1145/3611643.3616261)
@@ -189,7 +192,9 @@ We warmly welcome authors of relevant papers to actively submit their work to th
     - [Identifying renaming opportunities by expanding conducted rename refactorings *(TSE, 2015)*](https://ieeexplore.ieee.org/abstract/document/7097720)
     - [Distributed representations of sentences and documents *(PMLR, 2014)*](https://proceedings.mlr.press/v32/le14.html?ref=https://githubhelp.com)
     - [Ref-Finder: A refactoring reconstruction tool based on logic query templates *(FSE, 2010)*](https://dl.acm.org/doi/abs/10.1145/1882291.1882353)
-    - 
+
+
+
 - **Code Clone Detection**
     - [CLCD-I: Cross-Language Clone Detection by Using Deep Learning with InferCode *(Computers, 2023)*](https://doi.org/10.3390/computers12010012)
     - [Using a nearest-neighbour, bert-based approach for scalable clone detection *(ICSME, 2022)*](https://ieeexplore.ieee.org/abstract/document/9978241)
@@ -261,7 +266,8 @@ We warmly welcome authors of relevant papers to actively submit their work to th
     - [NICAD: Accurate Detection of Near-Miss Intentional Clones Using Flexible Pretty-Printing and Code Normalization *(ICPC, 2008)*](https://ieeexplore.ieee.org/abstract/document/4556129)
     - [DECKARD: Scalable and Accurate Tree-Based Detection of Code Clones *(ICSE, 2007)*](https://ieeexplore.ieee.org/abstract/document/4222572)
     - [Signature Verification using a "Siamese" Time Delay Neural Network *(Proceedings of the 6th International Conference on Neural Information Processing Systems, 1993)*](https://proceedings.neurips.cc/paper/1993/hash/288cc0ff022877bd3df94bc9360b9c5d-Abstract.html)
-    - 
+
+
 - **Software Defect Prediction**
     - [DeepLineDP: Towards a Deep Learning Approach for Line-Level Defect Prediction *(TSE, 2023)*](https://ieeexplore.ieee.org/abstract/document/9689967)
     - [Defect Prediction via Tree-Based Encoding with Hybrid Granularity for Software Sustainability *(IEEE Transactions on Sustainable Computing, 2023)*](https://ieeexplore.ieee.org/abstract/document/10052729)
@@ -295,15 +301,25 @@ We warmly welcome authors of relevant papers to actively submit their work to th
     - [Convolutional Neural Networks over Control Flow Graphs for Software Defect Prediction *(ICTAI, 2017)*](https://ieeexplore.ieee.org/abstract/document/8371922)
     - [Software Defect Prediction via Convolutional Neural Network *(QRS, 2017)*](https://ieeexplore.ieee.org/abstract/document/8009936)
     - [Deep Learning for Just-in-Time Defect Prediction *(QRS, 2015)*](https://ieeexplore.ieee.org/abstract/document/7272910)
+
+ 
 - **Bug Finding**
     - [Antifuzz: impeding fuzzing audits of binary executables (USENIX Security2019)](#antifuzz-impeding-fuzzing-audits-of-binary-executables-usenix-security2019)
+
+
 - **Fault Localization**
     - [No Grammar, No Problem: Towards Fuzzing the Linux Kernel without System-Call Descriptions (NDSS 2023)](#no-grammar-no-problem-towards-fuzzing-the-linux-kerne
+
+
 - **Program Repair**
     - [Evaluating and Improving Hybrid Fuzzing (ICSE 2023)](#evaluating-and-improving-hybrid-fuzzing-icse-2023)
+
+
 - **Bug Report Management**
     - [GrayC: Greybox Fuzzing of Compilers and Analysers for C (ISSTA 2023)](#grayc-greybox-fuzzing-of-compilers-and-analysers-for-c-issta-2023)
     - [DARWIN: Survival of the Fittest Fuzzing Mutators (NDSS 2023)](#darwin-survival-of-the-fittest-fuzzing-mutators-ndss-2023)
+
+
 - **Developer Collaboration**
     - [FUZZILLI: Fuzzing for JavaScript JIT Compiler Vulnerabilities (NDSS 2023)](#fuzzilli-fuzzing-for-javascript-jit-compiler-vulnerabilities-ndss-2023)
     - [FRAMESHIFTER: Manipulating HTTP/2 Frame Sequences with Fuzzing (Usenix Security2020)](#frameshifter-manipulating-http2-frame-sequences-with-fuzzing-usenix-security2020)
