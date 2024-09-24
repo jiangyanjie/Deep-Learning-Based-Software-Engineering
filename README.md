@@ -1,6 +1,8 @@
 
 We have recently published a survey **[Deep Learning-based Software Engineering: Progress, Challenges, and Opportunities](https://www.sciengine.com/SCIS/doi/10.1007/s11432-023-4127-5)** <button onclick="document.getElementById('hidden-text').style.display='block'">
-BIBTEX</button><div id="hidden-text" style="display:none;">
+BIBTEX</button> Although we have tried our best to collect related papers publicly available before the publication of our survey paper, there must be closely related papers published after the cutoff date. To construct an updated list of related papers in learning-based software engineering, we construct this website to continuously collect relevant papers in the field and translate the latest cutting-edge developments. 
+
+<div id="hidden-text" style="display:none;">
 @article{:/publisher/Science China Press/journal/SCIENCE CHINA Information Sciences///10.1007/s11432-023-4127-5,
   author = "Xiangping CHEN,Xing HU,Yuan HUANG,He JIANG,Weixing JI,Yanjie JIANG,Yanyan JIANG,Bo LIU,Hui LIU,Xiaochen LI,Xiaoli LIAN,Guozhu MENG,Xin PENG0,Hailong SUN,Lin SHI,Bo WANG,Chong WANG0,Jiayi WANG,Tiantian WANG,Jifeng XUAN,Xin XIA,Yibiao YANG,Yixin YANG,Li ZHANG,Yuming ZHOU,Lu ZHANG",
   title = "Deep Learning-based Software Engineering: Progress, Challenges, and Opportunities∗",
@@ -8,7 +10,7 @@ BIBTEX</button><div id="hidden-text" style="display:none;">
  pages = "-",
   url = "http://www.sciengine.com/publisher/Science China Press/journal/SCIENCE CHINA Information Sciences///10.1007/s11432-023-4127-5,
   doi = "https://doi.org/10.1007/s11432-023-4127-5"
-</div> in SCIENCE CHINA Information Sciences. Although we have tried our best to collect related papers publicly available before the publication of our survey paper, there must be closely related papers published after the cutoff date. To construct an updated list of related papers in learning-based software engineering, we construct this website to continuously collect relevant papers in the field and translate the latest cutting-edge developments. 
+</div> in SCIENCE CHINA Information Sciences. 
 
 We warmly welcome authors of relevant papers to actively submit their work to this website. They may accomplish it by any of the following methods:
 1. Post an issue for the website by clicking [`HERE`](https://github.com/jiangyanjie/DeepLearningBasedSoftwareEngineeringPaper/issues).
