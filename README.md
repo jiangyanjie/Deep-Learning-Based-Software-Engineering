@@ -155,10 +155,10 @@ We warmly welcome authors of relevant papers to actively submit their work to th
 
 
 - **Code Summarization**
-    - [Bcgen: a comment generation method for bytecode *(Autom. Softw. Eng., 2023)*](https://link.springer.com/article/10.1007/s10515-022-00374-6)
-    - [Snippet comment generation based on code context expansion *(ACM Trans. Softw. Eng. Methodol., 2023)*](https://dl.acm.org/doi/abs/10.1145/3611664)
+    - [Bcgen: a comment generation method for bytecode *(ASEJ, 2023)*](https://link.springer.com/article/10.1007/s10515-022-00374-6)
+    - [Snippet comment generation based on code context expansion *(TOSEM, 2023)*](https://dl.acm.org/doi/abs/10.1145/3611664)
     - [Re trans: Combined retrieval and transformer model for source code summarization *(Entropy, 2022)*](https://www.mdpi.com/1099-4300/24/10/1372)
-    - [ATOM: commit message generation based on abstract syntax tree and hybrid ranking *(IEEE Trans. Software Eng., 2022)*](https://ieeexplore.ieee.org/abstract/document/9261989/)
+    - [ATOM: commit message generation based on abstract syntax tree and hybrid ranking *(TSE, 2022)*](https://ieeexplore.ieee.org/abstract/document/9261989/)
     - [M2TS: multi-scale multi-modal approach based on transformer for source code summarization *(ICPC, 2022)*](https://dl.acm.org/doi/abs/10.1145/3524610.3527907)
     - [Ast-trans: Code summarization with efficient tree-structured attention *(ICSE, 2022)*](https://dl.acm.org/doi/abs/10.1145/3510003.3510224)
     - [Source code summarization with structural relative position guided transformer *(SANER, 2022)*](https://ieeexplore.ieee.org/abstract/document/9825804/)
@@ -167,8 +167,8 @@ We warmly welcome authors of relevant papers to actively submit their work to th
     - [Modeling hierarchical syntax structure with triplet position for source code summarization *(ACL, 2022)*](https://aclanthology.org/2022.acl-long.37/)
     - [MMF3: neural code summarization based on multi-modal fine-grained feature fusion *(ESEM, 2022)*](https://dl.acm.org/doi/abs/10.1145/3544902.3546251)
     - [Gypsum: learning hybrid representations for code summarization *(ICPC, 2022)*](https://dl.acm.org/doi/abs/10.1145/3524610.3527903)
-    - [Reinforcementlearning-guided source code summarization using hierarchical attention *(IEEE Trans. Software Eng., 2022)*](https://ieeexplore.ieee.org/abstract/document/9031440/)
-    - [Boosting code summarization by embedding code structures *(International Committee on Computational Linguistics, 2022)*](https://aclanthology.org/2022.coling-1.521/)
+    - [Reinforcementlearning-guided source code summarization using hierarchical attention *(TSE, 2022)*](https://ieeexplore.ieee.org/abstract/document/9031440/)
+    - [Boosting code summarization by embedding code structures *(ACL, 2022)*](https://aclanthology.org/2022.coling-1.521/)
     - [Api2com: On the improvement of automatically generated code comments using API documentations *(ICPC, 2021)*](https://ieeexplore.ieee.org/abstract/document/9463033/)
     - [Retrieval-augmented generation for code summarization via hybrid GNN *(ICLR, 2021)*](https://arxiv.org/abs/2006.05405)
     - [Haconvgnn: Hierarchical attention based convolutional graph neural network for code documentation generation in jupyter notebooks *(ACL, 2021)*](https://arxiv.org/abs/2104.01002)
