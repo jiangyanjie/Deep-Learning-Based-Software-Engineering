@@ -666,6 +666,7 @@ We warmly welcome authors of relevant papers to actively submit their work to th
   - [Easy over hard: A case study on deep learning *(ESEC, 2017)*](https://dl.acm.org/doi/10.1145/3106237.3106256)
   - [Exploring API embedding for API usages and applications *(ICSE, 2017)*](https://ieeexplore.ieee.org/document/7985683)
   - [VDNN: Virtualized deep neural networks for scalable, memory-efficient neural network design *(MICRO, 2016)*](https://ieeexplore.ieee.org/document/7783721)
+  - [Combining deep learning with information retrieval to localize buggy files for bug reports (n) *(ASE, 2015)*](https://ieeexplore.ieee.org/document/7372035)
 
 
 
