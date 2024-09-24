@@ -3,10 +3,10 @@ We have recently published a survey **[Deep Learning-based Software Engineering:
 
 We warmly welcome authors of relevant papers to actively submit their work to this website. They may accomplish it by any of the following methods:
 1. Post an issue for the website by clicking [`HERE`](https://github.com/jiangyanjie/DeepLearningBasedSoftwareEngineeringPaper/issues).
-2. Submit a [`Pull Request`](https://github.com/jiangyanjie/DeepLearningBasedSoftwareEngineeringPaper/pulls) to update the website.
-3. Send your work via email to `yanjiejiang@pku.edu.cn`
+2. Submit a **[`Pull Request`](https://github.com/jiangyanjie/DeepLearningBasedSoftwareEngineeringPaper/pulls)** to update the website.
+3. Send your work via email to **`yanjiejiang@pku.edu.cn`**
 4. Welcome to cite our survey paper <button onclick="document.getElementById('hidden-text').style.display='block'">
-`BIBTEX`
+**`BIBTEX`**
 </button>
 <div id="hidden-text" style="display:none;">
 @article{:/publisher/Science China Press/journal/SCIENCE CHINA Information Sciences///10.1007/s11432-023-4127-5,
@@ -17,10 +17,6 @@ We warmly welcome authors of relevant papers to actively submit their work to th
   url = "http://www.sciengine.com/publisher/Science China Press/journal/SCIENCE CHINA Information Sciences///10.1007/s11432-023-4127-5,
   doi = "https://doi.org/10.1007/s11432-023-4127-5"
 </div>   
-
-[1]  Xiangping CHEN,Xing HU,Yuan HUANG,He JIANG,Weixing JI,Yanjie JIANG,Yanyan JIANG,Bo LIU,Hui LIU,Xiaochen LI,Xiaoli LIAN,Guozhu MENG,Xin PENG0,Hailong SUN,Lin SHI,Bo WANG,Chong WANG0,Jiayi WANG,Tiantian WANG,Jifeng XUAN,Xin XIA,Yibiao YANG,Yixin YANG,Li ZHANG,Yuming ZHOU,Lu ZHANG, "[Deep Learning-based Software Engineering: Progress, Challenges, and Opportunities] (http://www.sciengine.com/publisher/Science China Press/journal/SCIENCE CHINA Information Sciences///10.1007/s11432-023-4127-5)", SCIENCE CHINA Information Sciences. [BIBTEX]
-
-
 
 ## Contributors
 
