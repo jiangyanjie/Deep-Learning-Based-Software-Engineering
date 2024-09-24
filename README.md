@@ -10,7 +10,7 @@ BIBTEX
  pages = "-",
   url = "http://www.sciengine.com/publisher/Science China Press/journal/SCIENCE CHINA Information Sciences///10.1007/s11432-023-4127-5,
   doi = "https://doi.org/10.1007/s11432-023-4127-5"
-</div>   in SCIENCE CHINA Information Sciences. Although we have tried our best to collect related papers publicly available before the publication of our survey paper, there must be closely related papers published after the cutoff date. To construct an updated list of related papers in learning-based software engineering, we construct this website to continuously collect relevant papers in the field and translate the latest cutting-edge developments. 
+</div> in SCIENCE CHINA Information Sciences. Although we have tried our best to collect related papers publicly available before the publication of our survey paper, there must be closely related papers published after the cutoff date. To construct an updated list of related papers in learning-based software engineering, we construct this website to continuously collect relevant papers in the field and translate the latest cutting-edge developments. 
 
 We warmly welcome authors of relevant papers to actively submit their work to this website. They may accomplish it by any of the following methods:
 1. Post an issue for the website by clicking [`HERE`](https://github.com/jiangyanjie/DeepLearningBasedSoftwareEngineeringPaper/issues).
