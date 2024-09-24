@@ -109,7 +109,7 @@ We warmly welcome authors of relevant papers to actively submit their work to th
     - [A syntactic neural model for general-purpose code generation *(ACL, 2017)*](https://arxiv.org/abs/1704.01696)
     - [Abstract syntax networks for code generation and semantic parsing *(ACL, 2017)*](https://arxiv.org/abs/1704.07535)
     - [Latent predictor networks for code generation *(ACL, 2016)*](https://arxiv.org/abs/1603.06744)
-    - [Language to logical form with neural attention *(ACL, 2016)*](https://arxiv.org/abs/1810.02720)
+    - [Language to logical form with neural attention *(ACL, 2016)*](https://arxiv.org/abs/1601.01280)
     - [Nl-based query refinement and contextualized code search results: A user study *(CSMR-WCRE 2014)*](https://ieeexplore.ieee.org/abstract/document/6747190/)
     - [Empirical evaluation of gated recurrent neural networks on sequence modeling *(arXiv preprint arXiv, 2014)*](https://arxiv.org/abs/1412.3555)
     - [SNIFF: A search engine for java using free-form queries *(ETAPS, 2009)*](https://link.springer.com/chapter/10.1007/978-3-642-00593-0_26)
