@@ -308,7 +308,6 @@ We warmly welcome authors of relevant papers to actively submit their work to th
 
 
 - **Fault Localization**
-    - [No Grammar, No Problem: Towards Fuzzing the Linux Kernel without System-Call Descriptions (NDSS 2023)](#no-grammar-no-problem-towards-fuzzing-the-linux-kerne
     - [Gnet4fl: effective fault localization via graph convolutional neural network *(ASE, 2023)*](https://dlnext.acm.org/doi/abs/10.1007/s10515-023-00383-z)
     - [Context-aware neural fault localization *(TSE, 2023)*](https://ieeexplore.ieee.org/document/10132088)
     - [Automatic bug localization using a combination of deep learning and model transformation through node classification *(SQJ, 2023)*](https://dl.acm.org/doi/10.1007/s11219-023-09625-5)
