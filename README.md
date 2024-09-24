@@ -20,13 +20,13 @@ We warmly welcome authors of relevant papers to actively submit their work to th
 # Related Papers:
 
 - **Requirements Engineering**
+    - [A large-scale survey on the usability of ai programming assistants: Successes and challenges *(ICSE, 2024)*](https://dl.acm.org/doi/abs/10.1145/3597503.3608128)
     - [Reqgen: Keywords-driven software requirements generation *(Mathematics, 2023)*](https://www.mdpi.com/2227-7390/11/2/332)
     - [On-demand security requirements synthesis with relational generative adversarial networks *(ICSE, 2023)*](https://ieeexplore.ieee.org/abstract/document/10172729/)
-    - [Ai-based question answering assistance for analyzing natural-language requirements *(2023)*](https://ieeexplore.ieee.org/abstract/document/10172663/)
+    - [Ai-based question answering assistance for analyzing natural-language requirements *(ICSE, 2023)*](https://ieeexplore.ieee.org/abstract/document/10172663/)
     - [Prcbert: Prompt learning for requirement classification using bert-based pretrained language models *(ASE, 2023)*](https://dl.acm.org/doi/abs/10.1145/3551349.3560417)
     - [A cross-level requirement trace link update model based on bidirectional encoder representations from transformers *(Mathematics, 2023)*](https://www.mdpi.com/2227-7390/11/3/623)
-    - [A large-scale survey on the usability of ai programming assistants: Successes and challenges *(2023)*](https://dl.acm.org/doi/abs/10.1145/3597503.3608128)
-    - [A study about the knowledge and use of requirements engineering standards in industry *(IEEE Transactions on Software Engineering, 2022)*](https://ieeexplore.ieee.org/abstract/document/9449943/)
+    - [A study about the knowledge and use of requirements engineering standards in industry *(TSE, 2022)*](https://ieeexplore.ieee.org/abstract/document/9449943/)
     - [Detecting privacy requirements from user stories with nlp transfer learning models *(Information and Software Technology, 2022)*](https://www.sciencedirect.com/science/article/pii/S0950584922000246)
     - [A software requirements ecosystem: Linking forum, issue tracker, and faqs for requirements management *(TSE, 2022)*](https://ieeexplore.ieee.org/abstract/document/9940985)
     - [Automated handling of anaphoric ambiguity in requirements: A multi-solution study *(ICSE, 2022)*](https://dl.acm.org/doi/abs/10.1145/3510003.3510157)
@@ -36,7 +36,7 @@ We warmly welcome authors of relevant papers to actively submit their work to th
     - [Traceability transformed: Generating more accurate links with pre-trained bert models *(ICSE, 2021)*](https://ieeexplore.ieee.org/abstract/document/9402118/)
     - [A deep multitask learning approach for requirements discovery and annotation from open forum *(ASE, 2021)*](https://dl.acm.org/doi/abs/10.1145/3324884.3416627)
     - [Automating developer chat mining *(ASE, 2021)*](https://ieeexplore.ieee.org/abstract/document/9678923)
-    - [Bidirectional language modeling: A systematic literature review *(Sci.Program., 2021)*](https://onlinelibrary.wiley.com/doi/abs/10.1155/2021/6641832)
+    - [Bidirectional language modeling: A systematic literature review *(Science Programming, 2021)*](https://onlinelibrary.wiley.com/doi/abs/10.1155/2021/6641832)
     - [Classifying user requirements from online feedback in small dataset environments using deep learning *(RE, 2021)*](https://ieeexplore.ieee.org/abstract/document/9604705)
     - [Codebert: A pre-trained model for programming and natural languages *(ACL, 2020)*](https://arxiv.org/abs/2002.08155)
     - [Caspar: Extracting and synthesizing user stories of problems from app reviews *(ICSE, 2020)*](https://dl.acm.org/doi/abs/10.1145/3377811.3380924)
