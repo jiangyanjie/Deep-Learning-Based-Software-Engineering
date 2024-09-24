@@ -1,11 +1,18 @@
 
-We have recently published a survey **[Deep Learning-based Software Engineering: Progress, Challenges, and Opportunities](https://www.sciengine.com/SCIS/doi/10.1007/s11432-023-4127-5)** in SCIENCE CHINA Information Sciences. Although we have tried our best to collected related papers publicly available before the publication of our survey paper, there must be closely related papers published after the cutoff date. To constructe an updated list of related papers in learing-based software engineering, we construct this website to continuously collect relevant papers in the field and translate the latest cutting-edge developments. 
+We have recently published a survey **[Deep Learning-based Software Engineering: Progress, Challenges, and Opportunities](https://www.sciengine.com/SCIS/doi/10.1007/s11432-023-4127-5)** in SCIENCE CHINA Information Sciences. Although we have tried our best to collect related papers publicly available before the publication of our survey paper, there must be closely related papers published after the cutoff date. To constructe an updated list of related papers in learning-based software engineering, we construct this website to continuously collect relevant papers in the field and translate the latest cutting-edge developments. 
 
 We warmly welcome authors of relevant papers to actively submit their work to this website. They may accomplish it by any of the folowing methods:
-1. Post an issue for the websit by clikcing [`HERE`](https://github.com/jiangyanjie/DeepLearningBasedSoftwareEngineeringPaper/issues).
-2. Submit a `Pull Requst` to update the websit.
+1. Post an issue for the website by clicking [`HERE`](https://github.com/jiangyanjie/DeepLearningBasedSoftwareEngineeringPaper/issues).
+2. Submit a `Pull Request` to update the website.
 3. Send your work via email to `yanjiejiang@pku.edu.cn`
-   
+
+<button onclick="document.getElementById('hidden-text').style.display='block'">
+  Click to Show
+</button>
+
+<div id="hidden-text" style="display:none;">
+  This is the hidden text that appears when you click the button.
+</div>   
 
 [1]  Xiangping CHEN,Xing HU,Yuan HUANG,He JIANG,Weixing JI,Yanjie JIANG,Yanyan JIANG,Bo LIU,Hui LIU,Xiaochen LI,Xiaoli LIAN,Guozhu MENG,Xin PENG0,Hailong SUN,Lin SHI,Bo WANG,Chong WANG0,Jiayi WANG,Tiantian WANG,Jifeng XUAN,Xin XIA,Yibiao YANG,Yixin YANG,Li ZHANG,Yuming ZHOU,Lu ZHANG, "[Deep Learning-based Software Engineering: Progress, Challenges, and Opportunities] (http://www.sciengine.com/publisher/Science China Press/journal/SCIENCE CHINA Information Sciences///10.1007/s11432-023-4127-5)", SCIENCE CHINA Information Sciences. [BIBTEX]
 
