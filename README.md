@@ -56,12 +56,12 @@ We warmly welcome authors of relevant papers to actively submit their work to th
     - [Deriving requirements from process models via the problem frames approach *(Inf.Softw.Technol., 2005)*](https://www.sciencedirect.com/science/article/pii/S0950584904001314)
     - [Generating requirements from systems models using patterns: a case study *(RE, 2005)*](https://link.springer.com/article/10.1007/s00766-005-0010-9)
     - [Goal-oriented requirements engineering: a roundtrip from research to practice [enginering read engineering] *(RE, 2004)*](https://ieeexplore.ieee.org/abstract/document/1335648/)
-    - [Automating software requirements generation from business process models *(PRISE’04, 2004)*](https://www.researchgate.net/profile/Oktay-Turetken/publication/255566398_Automating_Software_Requirements_Generation_from_Business_Process_Models/links/5569aa4f08aefcb861d5eff6/Automating-Software-Requirements-Generation-from-Business-Process-Models.pdf)
+    - [Automating software requirements generation from business process models *(PRISE, 2004)*](https://www.researchgate.net/profile/Oktay-Turetken/publication/255566398_Automating_Software_Requirements_Generation_from_Business_Process_Models/links/5569aa4f08aefcb861d5eff6/Automating-Software-Requirements-Generation-from-Business-Process-Models.pdf)
     - [Deriving tabular event-based specifications from goal-oriented requirements models *(Requir.Eng., 2004)*](https://link.springer.com/article/10.1007/s00766-004-0189-1)
     - [The automated extraction of requirements from UML models *(RE, 2003)*](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=556372fee1ae064127faf2558dc4c9784f2ac794)
     - [Deriving operational software specifications from system goals *(SIGSOFT, 2002)*](https://dl.acm.org/doi/abs/10.1145/605466.605485)
     - [Inferring declarative requirements specifications from operational scenarios *(Software Eng., 1998)*](https://ieeexplore.ieee.org/abstract/document/738341/)
-    - [From organization models to system requirements: A'cooperating agents' approach *(CoopIS-95, 1995)*](https://www.cs.toronto.edu/pub/eric/eric/CoopIS95.pdf)
+    - [From organization models to system requirements: A'cooperating agents' approach *(CoopIS, 1995)*](https://www.cs.toronto.edu/pub/eric/eric/CoopIS95.pdf)
 
 
 - **Code Generation**
