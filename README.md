@@ -13,8 +13,8 @@ BIBTEX</button> in SCIENCE CHINA Information Sciences. Although we have tried ou
 </div> 
 
 We warmly welcome authors of relevant papers to actively submit their work to this website. They may accomplish it by any of the following methods:
-1. Post an `Issue`(https://github.com/jiangyanjie/DeepLearningBasedSoftwareEngineeringPaper/issues) for the website.
-2. Submit a `Pull Request`(https://github.com/jiangyanjie/DeepLearningBasedSoftwareEngineeringPaper/pulls) to update the website.
+1. Post an [`Issue`](https://github.com/jiangyanjie/DeepLearningBasedSoftwareEngineeringPaper/issues) for the website.
+2. Submit a [`Pull Request`](https://github.com/jiangyanjie/DeepLearningBasedSoftwareEngineeringPaper/pulls) to update the website.
 3. Send your work via email to `yanjiejiang@pku.edu.cn`
 
 # All Papers (Classification according to Subject)
@@ -22,31 +22,31 @@ We warmly welcome authors of relevant papers to actively submit their work to th
 - **Requirements Engineering**
     - [A Survey of Protocol Fuzzing](#a-survey-of-protocol-fuzzing)
     - [Demystify the Fuzzing Methods: A Comprehensive Survey (ACM CSUR 2023)](#demystify-the-fuzzing-methods-a-comprehensive-survey-acm-csur-2023)
-- [Code Generation](#codegeneration)
+- **Code Generation**
     - [JIT-Picking: Differential Fuzzing of JavaScript Engines (CCS 2022)](#jit-picking-differential-fuzzing-of-javascript-engines-ccs-2022)
     - [SpecDoctor: Differential Fuzz Testing to Find Transient Execution Vulnerabilities](#specdoctor-differential-fuzz-testing-to-find-transient-execution-vulnerabilities)
-- [Code Search](#code-search)
+- **Code Search**
     - [SoK: Prudent Evaluation Practices for Fuzzing (SP 2024)](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a137/1Ub23V26Svm)
     - [FIXREVERTER: A Realistic Bug Injection Methodology for Benchmarking Fuzz Testing (USENIX Security2022)](#fixreverter-a-realistic-bug-injection-methodology-for-benchmarking-fuzz-testing-usenix-security2022)
-- [Code Summarization](#code-summarization)
+- **Code Summarization**
     - [InstruGuard: Find and Fix Instrumentation Errors for Coverage-based Greybox Fuzzing (ASE 2021)](#instruguard-find-and-fix-instrumentation-errors-for-coverage-based-greybox-fuzzing-ase-2021)
     - [RIFF: Reduced Instruction Footprint for Coverage-Guided Fuzzing (USENIX ATC 2021)](#riff-reduced-instruction-footprint-for-coverage-guided-fuzzing-usenix-atc-2021)
-- [Software Refactoring](#software-refactoring)
+- **Software Refactoring**
     - [LABRADOR: Response Guided Directed Fuzzing for Black-box IoT Devices (SP 2024)](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a127/1Ub23HQTJ1C)
-- [Code Clone Detection](#code-clone-detection)
+- **Code Clone Detection**
     - [Large Language Model guided Protocol Fuzzing (NDSS 2024)](#large-language-model-guided-protocol-fuzzing-ndss-2024)
-- [Software Defect Prediction](#software-defect-prediction)
+- **Software Defect Prediction**
     - [Validating SMT Solvers via Skeleton Enumeration Empowered by Historical Bug-Triggering Inputs (ICSE 2023)](#validating-smt-solvers-via-skeleton-enumeration-empowered-by-historical-bug-triggering-inputs-icse-2023)
-- [Bug Finding](#bug-finding)
+- **Bug Finding**
     - [Antifuzz: impeding fuzzing audits of binary executables (USENIX Security2019)](#antifuzz-impeding-fuzzing-audits-of-binary-executables-usenix-security2019)
-- [Fault Localization](#fault-localization)
+- **Fault Localization**
     - [No Grammar, No Problem: Towards Fuzzing the Linux Kernel without System-Call Descriptions (NDSS 2023)](#no-grammar-no-problem-towards-fuzzing-the-linux-kerne
-- [Program Repair](#program-repair)
+- **Program Repair**
     - [Evaluating and Improving Hybrid Fuzzing (ICSE 2023)](#evaluating-and-improving-hybrid-fuzzing-icse-2023)
-- [Bug Report Management](#bug-report-management)
+- **Bug Report Management**
     - [GrayC: Greybox Fuzzing of Compilers and Analysers for C (ISSTA 2023)](#grayc-greybox-fuzzing-of-compilers-and-analysers-for-c-issta-2023)
     - [DARWIN: Survival of the Fittest Fuzzing Mutators (NDSS 2023)](#darwin-survival-of-the-fittest-fuzzing-mutators-ndss-2023)
-- [Developer Collaboration](#developer-collaboration)
+- **Developer Collaboration**
     - [FUZZILLI: Fuzzing for JavaScript JIT Compiler Vulnerabilities (NDSS 2023)](#fuzzilli-fuzzing-for-javascript-jit-compiler-vulnerabilities-ndss-2023)
     - [FRAMESHIFTER: Manipulating HTTP/2 Frame Sequences with Fuzzing (Usenix Security2020)](#frameshifter-manipulating-http2-frame-sequences-with-fuzzing-usenix-security2020)
 
