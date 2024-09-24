@@ -5,7 +5,7 @@ We warmly welcome authors of relevant papers to actively submit their work to th
 1. Post an issue for the website by clicking [`HERE`](https://github.com/jiangyanjie/DeepLearningBasedSoftwareEngineeringPaper/issues).
 2. Submit a [`Pull Request`](https://github.com/jiangyanjie/DeepLearningBasedSoftwareEngineeringPaper/pulls) to update the website.
 3. Send your work via email to `yanjiejiang@pku.edu.cn`
-4. Welcome to cite our survey paper <button onclick="document.getElementById('hidden-text').style.display='block'">
+4. Welcome to cite our survey paper <button onclick="document.getElementById('hidden-text').style.display='none'">
  `BIBTEX`
 </button>
 <div id="hidden-text" style="display:none;">
