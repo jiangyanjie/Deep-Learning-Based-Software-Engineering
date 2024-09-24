@@ -9,7 +9,7 @@ BIBTEX</button> in SCIENCE CHINA Information Sciences. Although we have tried ou
   journal = "SCIENCE CHINA Information Sciences",
  pages = "-",
   url = "http://www.sciengine.com/publisher/Science China Press/journal/SCIENCE CHINA Information Sciences///10.1007/s11432-023-4127-5,
-  doi = "https://doi.org/10.1007/s11432-023-4127-5"
+  doi = "https://doi.org/10.1007/s11432-023-4127-5"}
 </div> 
 
 We warmly welcome authors of relevant papers to actively submit their work to this website. They may accomplish it by any of the following methods:
