@@ -19,7 +19,7 @@ We warmly welcome authors of relevant papers to actively submit their work to th
 
 # Related Papers:
 
-**Requirements Engineering**
+- **Requirements Engineering**
     - [A large-scale survey on the usability of AI programming assistants: Successes and challenges *(ICSE, 2024)*](https://dl.acm.org/doi/abs/10.1145/3597503.3608128)
     - [Reqgen: Keywords-driven software requirements generation *(Mathematics, 2023)*](https://www.mdpi.com/2227-7390/11/2/332)
     - [On-demand security requirements synthesis with relational generative adversarial networks *(ICSE, 2023)*](https://ieeexplore.ieee.org/abstract/document/10172729/)
@@ -64,7 +64,7 @@ We warmly welcome authors of relevant papers to actively submit their work to th
     - [From organization models to system requirements: A'cooperating agents' approach *(CoopIS, 1995)*](https://www.cs.toronto.edu/pub/eric/eric/CoopIS95.pdf)
 
 
-**Code Generation**
+- **Code Generation**
     - [Exploitgen: Template-augmentedexploit code generation based on codebert *(Journal of Systems and Software, 2023)*](https://www.sciencedirect.com/science/article/pii/S0164121222002539)
     - [Skcoder: A sketch-based approach for automatic code generation *(arXiv, 2023)*](https://ieeexplore.ieee.org/abstract/document/10172719/)
     - [Practitioners’ expectations on code completion *(arXiv, 2023)*](https://arxiv.org/abs/2301.03846)
