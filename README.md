@@ -18,17 +18,6 @@ We warmly welcome authors of relevant papers to actively submit their work to th
   doi = "https://doi.org/10.1007/s11432-023-4127-5"
 </div>   
 
-## Contributors
-
-<a href="https://github.com/jiangyanjie/deepLearningBasedSoftwareEngineeringPaper/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=jiangyanjie/deepLearningBasedSoftwareEngineeringPaper" />
-</a>
-
-## Starchart
-
-[![Star History Chart](https://api.star-history.com/svg?repos=jiangyanjie/deepLearningBasedSoftwareEngineeringPaper&type=Date)](https://star-history.com/#jiangyanjie/deepLearningBasedSoftwareEngineeringPaper&Date)
-
-
 # All Papers (Classification according to Subject)
 
 - **Requirements Engineering**
