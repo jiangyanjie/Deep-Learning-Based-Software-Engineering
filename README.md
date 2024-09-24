@@ -3,7 +3,8 @@
 1. This website is only used for collecting and grouping the related paper. If there are any paper need to be updated, you can contribute PR.
 2. Please check the web [https://jiangyanjie.github.io/deepLearningBasedSoftwareEngineeringPaper/](https://jiangyanjie.github.io/deepLearningBasedSoftwareEngineeringPaper/), as the `.md` file shown in Github is cropped.
 3. Please cite our survey paper:
-```bibtex
+
+```
 @article{:/publisher/Science China Press/journal/SCIENCE CHINA Information Sciences///10.1007/s11432-023-4127-5,
   author = "Xiangping CHEN,Xing HU,Yuan HUANG,He JIANG,Weixing JI,Yanjie JIANG,Yanyan JIANG,Bo LIU,Hui LIU,Xiaochen LI,Xiaoli LIAN,Guozhu MENG,Xin PENG0,Hailong SUN,Lin SHI,Bo WANG,Chong WANG0,Jiayi WANG,Tiantian WANG,Jifeng XUAN,Xin XIA,Yibiao YANG,Yixin YANG,Li ZHANG,Yuming ZHOU,Lu ZHANG",
   title = "Deep Learning-based Software Engineering: Progress, Challenges, and Opportunities∗",
