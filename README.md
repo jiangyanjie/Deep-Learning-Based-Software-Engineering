@@ -75,7 +75,7 @@ We warmly welcome authors of relevant papers to actively submit their work to th
     - [In ChatGPT we trust? measuring and characterizing the reliability of ChatGPT *(arXiv, 2023)*](https://arxiv.org/abs/2304.08979)
     - [Codefill: Multi-token code completion by jointly learning from structure and naming sequences *(ICSE, 2022)*](https://dl.acm.org/doi/abs/10.1145/3510003.3510172)
     - [Incorporating domain knowledge through task augmentation for front-end javascript code generation *(ESEC/FSE, 2022)*](https://dl.acm.org/doi/abs/10.1145/3540250.3558965)
-    - [Coderl: Mastering code generation through pretrained models and deep reinforcement learning *(Neural IPS, 2022)*](https://proceedings.neurips.cc/paper_files/paper/2022/hash/8636419dea1aa9fbd25fc4248e702da4-Abstract-Conference.html)
+    - [Coderl: Mastering code generation through pretrained models and deep reinforcement learning *(NeurIPS, 2022)*](https://proceedings.neurips.cc/paper_files/paper/2022/hash/8636419dea1aa9fbd25fc4248e702da4-Abstract-Conference.html)
     - [Lyra: A benchmark for turducken-style code generation *(IJCAI, 2022)*](https://arxiv.org/abs/2108.12144)
     - [In-ide code generation from natural language: Promise and challenges *(TOSEM, 2022)*](https://dl.acm.org/doi/abs/10.1145/3487569)
     - [Compilable neural code generation with compiler feedback *(ACL, 2022)*](https://arxiv.org/abs/2203.05132)
