@@ -20,9 +20,9 @@ We warmly welcome authors of relevant papers to actively submit their work to th
 # All Papers (Classification according to Subject)
 
 - **Requirements Engineering**
-    - [Automating intention mining. *(TSE, 2020)*](https://ieeexplore.ieee.org/abstract/document/8493285)
-    - [Extraction of system states from natural language requirements. *(RE, 2019)*](https://ieeexplore.ieee.org/abstract/document/8920516)
-    - [A deep multitask learning approach for requirements discovery and annotation from open forum. *(ASE, 2021)*](https://dl.acm.org/doi/abs/10.1145/3324884.3416627)
+    - [Automating intention mining *(TSE, 2020)*](https://ieeexplore.ieee.org/abstract/document/8493285)
+    - [Extraction of system states from natural language requirements *(RE, 2019)*](https://ieeexplore.ieee.org/abstract/document/8920516)
+    - [A deep multitask learning approach for requirements discovery and annotation from open forum *(ASE, 2021)*](https://dl.acm.org/doi/abs/10.1145/3324884.3416627)
     - [Caspar: Extracting and synthesizing user stories of problems from app reviews. <small>*(In Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering, ICSE ’20, 2020.)*</small>](https://dl.acm.org/doi/abs/10.1145/3377811.3380924)
     - [Classifying user requirements from online feedback in small dataset environments using deep learning. <small>*(In 2021 IEEE 29th International Requirements Engineering Conference (RE), 2021)*</small>](https://ieeexplore.ieee.org/abstract/document/9604705)
     - [A software requirements ecosystem: Linking forum, issue tracker, and faqs for requirements management. <small>*(IEEE Transactions on Software Engineering, 2023)*</small>](https://ieeexplore.ieee.org/abstract/document/9940985)
