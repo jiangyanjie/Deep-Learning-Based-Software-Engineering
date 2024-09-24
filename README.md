@@ -17,7 +17,7 @@ We warmly welcome authors of relevant papers to actively submit their work to th
 2. Submit a [`Pull Request`](https://github.com/jiangyanjie/DeepLearningBasedSoftwareEngineeringPaper/pulls) to update the website.
 3. Send your work via email to `yanjiejiang@pku.edu.cn`
 
-# Releated Papers:
+# Related Papers:
 
 - **Requirements Engineering**
     - [Automating intention mining *(TSE, 2020)*](https://ieeexplore.ieee.org/abstract/document/8493285)
