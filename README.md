@@ -65,7 +65,7 @@ We warmly welcome authors of relevant papers to actively submit their work to th
 
 
 - **Code Generation**
-  - [Exploitgen: Template-augmentedexploit code generation based on codebert *(Journal of Systems and Software, 2023)*](https://www.sciencedirect.com/science/article/pii/S0164121222002539)
+    - [Exploitgen: Template-augmentedexploit code generation based on codebert *(Journal of Systems and Software, 2023)*](https://www.sciencedirect.com/science/article/pii/S0164121222002539)
     - [Skcoder: A sketch-based approach for automatic code generation *(arXiv preprint arXiv, 2023)*](https://ieeexplore.ieee.org/abstract/document/10172719/)
     - [Practitioners’ expectations on code completion *(arXiv preprint arXiv, 2023)*](https://arxiv.org/abs/2301.03846)
     - [Domain adaptive code completion via language models and decoupled domain databases *(arXiv preprint arXiv, 2023)*](https://ieeexplore.ieee.org/abstract/document/10298575/)
