@@ -725,7 +725,10 @@ We warmly welcome authors of relevant papers to actively submit their work to th
 
 ##### Contributors
 
-[![Contributors](https://contrib.rocks/image?repo=jiangyanjie/Deep-Learning-Based-Software-Engineering)](https://github.com/jiangyanjie/Deep-Learning-Based-Software-Engineering/graphs/contributors/)
+## Contributors
+
+[![Contributors](https://img.shields.io/github/contributors/jiangyanjie/Deep-Learning-Based-Software-Engineering.svg)](https://github.com/jiangyanjie/Deep-Learning-Based-Software-Engineering/graphs/contributors)
+
 
 ##### Page Traffic Analysis
 
