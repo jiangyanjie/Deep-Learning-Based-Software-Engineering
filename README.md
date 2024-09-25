@@ -217,7 +217,6 @@ We warmly welcome authors of relevant papers to actively submit their work to th
     - [How to improve deep learning for software analytics: (a case study with code smell detection) *(MSR, 2022)*](https://dl.acm.org/doi/abs/10.1145/3524842.3528458)
     - [RefactoringMiner 2.0 *(TSE, 2022)*](https://ieeexplore.ieee.org/abstract/document/9136878)
     - [Deep learning based code smell detection *(TSE, 2021)*](https://ieeexplore.ieee.org/abstract/document/8807230)
-    - [Deep learning based code smell detection *(TSE, 2021)*](https://ieeexplore.ieee.org/abstract/document/8807230)
     - [A deep method renaming prediction and refinement approach for Java projects *(QRS, 2021)*](https://ieeexplore.ieee.org/abstract/document/9724765)
     - [Graph neural network to dilute outliers for refactoring monolith application *(AAAI, 2021)*](https://ojs.aaai.org/index.php/AAAI/article/view/16079)
     - [RefDiff 2.0: A multi-language refactoring detection tool *(TSE, 2021)*](https://ieeexplore.ieee.org/abstract/document/8966516)
