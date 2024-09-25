@@ -725,8 +725,6 @@ We warmly welcome authors of relevant papers to actively submit their work to th
 
 ##### Contributors
 
-[![Contributors](https://img.shields.io/github/contributors/jiangyanjie/Deep-Learning-Based-Software-Engineering.svg)](https://github.com/jiangyanjie/Deep-Learning-Based-Software-Engineering/graphs/contributors)
-
 <a href="https://github.com/jiangyanjie/Deep-Learning-Based-Software-Engineering/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=jiangyanjie/Deep-Learning-Based-Software-Engineering" />
 </a>
