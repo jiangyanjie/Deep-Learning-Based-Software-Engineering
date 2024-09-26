@@ -518,6 +518,7 @@ We warmly welcome authors of relevant papers to actively submit their work to th
 
 
 - **Program Repair**
+  - [ThinkRepair: Self-Directed Automated Program Repair *(ISSTA, 2024)*](https://arxiv.org/abs/2407.20898)
   - [MarsCode Agent: AI-native Automated Bug Fixing *(arXiv, 2024)*](https://arxiv.org/abs/2409.00899)
   - [Synshine: Improved fixing of syntax errors *(TSE, 2023)*](https://ieeexplore.ieee.org/document/9913705)
   - [Learning approximate execution semantics from traces for binary function similarity *(TSE, 2023)*](https://ieeexplore.ieee.org/document/10002189)
