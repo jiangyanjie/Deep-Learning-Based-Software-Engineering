@@ -65,6 +65,7 @@ We warmly welcome authors of relevant papers to actively submit their work to th
 
 
 - **Code Generation**
+    - [RepoMasterEval: Evaluating Code Completion via Real-World Repositories *(arXiv, 2024)*](https://arxiv.org/abs/2408.03519)
     - [Exploitgen: Template-augmentedexploit code generation based on codebert *(Journal of Systems and Software, 2023)*](https://www.sciencedirect.com/science/article/pii/S0164121222002539)
     - [Skcoder: A sketch-based approach for automatic code generation *(arXiv, 2023)*](https://ieeexplore.ieee.org/abstract/document/10172719/)
     - [Practitioners’ expectations on code completion *(arXiv, 2023)*](https://arxiv.org/abs/2301.03846)
@@ -517,6 +518,7 @@ We warmly welcome authors of relevant papers to actively submit their work to th
 
 
 - **Program Repair**
+  - [MarsCode Agent: AI-native Automated Bug Fixing *(arXiv, 2024)*](https://arxiv.org/abs/2409.00899)
   - [Synshine: Improved fixing of syntax errors *(TSE, 2023)*](https://ieeexplore.ieee.org/document/9913705)
   - [Learning approximate execution semantics from traces for binary function similarity *(TSE, 2023)*](https://ieeexplore.ieee.org/document/10002189)
   - [Program repair with repeated learning *(TSE, 2023)*](https://ieeexplore.ieee.org/document/9749899)
