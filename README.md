@@ -65,7 +65,15 @@ We warmly welcome authors of relevant papers to actively submit their work to th
 
 
 - **Code Generation**
+    - [Sifting through the Chaff: On Utilizing Execution Feedback for Ranking the Generated Code Candidates *(arXiv, 2024)*](https://arxiv.org/pdf/2408.13976)
+    - [Measuring Code Efficiency Optimization Capabilities with ACEOB *(arXiv, 2024)*](https://arxiv.org/pdf/2408.12960)
+    - [E-code: Mastering Efficient Code Generation through Pretrained Models and Expert Encoder Group *(arXiv, 2024)*](https://arxiv.org/pdf/2408.12948)
+    - [IRCoCo: Immediate Rewards-Guided Deep Reinforcement Learning for Code Completion *(ESEC/FSE, 2024)*](https://dl.acm.org/doi/pdf/10.1145/3643735)
+    - [Knowledge-Aware Code Generation with Large Language Models *(ICPC, 2024)*](https://dl.acm.org/doi/abs/10.1145/3643916.3644418)
+    - [KareCoder: A New Knowledge-Enriched Code Generation System *(ICSE, 2024)*](https://dl.acm.org/doi/abs/10.1145/3639478.3643076)
+    - [Enhancing Code Generation Performance of Smaller Models by Distilling the Reasoning Ability of LLMs *(LREC-COLING, 2024)*](https://arxiv.org/abs/2403.13271)
     - [RepoMasterEval: Evaluating Code Completion via Real-World Repositories *(arXiv, 2024)*](https://arxiv.org/abs/2408.03519)
+    - [TACO: Topics in Algorithmic COde generation dataset *(arXiv, 2023)*](https://arxiv.org/abs/2312.14852)
     - [Exploitgen: Template-augmentedexploit code generation based on codebert *(Journal of Systems and Software, 2023)*](https://www.sciencedirect.com/science/article/pii/S0164121222002539)
     - [Skcoder: A sketch-based approach for automatic code generation *(arXiv, 2023)*](https://ieeexplore.ieee.org/abstract/document/10172719/)
     - [Practitioners’ expectations on code completion *(arXiv, 2023)*](https://arxiv.org/abs/2301.03846)
