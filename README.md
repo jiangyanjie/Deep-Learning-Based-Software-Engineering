@@ -360,6 +360,8 @@ We warmly welcome authors of relevant papers to actively submit their work to th
 - **Bug Finding**
     - [Software Testing With Large Language Models: Survey, Landscape, and Vision *(TSE, 2024)*](https://ieeexplore.ieee.org/abstract/document/10440574)
     - [Large Language Model guided Protocol Fuzzing *(NDSS Symposium, 2024)*](https://www.ndss-symposium.org/ndss-paper/large-language-model-guided-protocol-fuzzing/)
+    - [UPBEAT: Test Input Checks of Q# Quantum Libraries *(ISSTA, 2024)*](https://dl.acm.org/doi/10.1145/3650212.3652120)
+    - [A Generative and Mutational Approach for Synthesizing Bug-Exposing Test Cases to Guide Compiler Fuzzing *(ESEC/FSE 2023)*](https://dl.acm.org/doi/abs/10.1145/3611643.3616332)
     - [Large Language Models for Software Engineering: A Systematic Literature Review *(TOSEM, 2023)*](https://dl.acm.org/doi/abs/10.1145/3695988)
     - [Learning to Boost Disjunctive Static Bug-Finders *(ICSE, 2023)*](https://ieeexplore.ieee.org/abstract/document/10172638)
     - [The Hitchhiker's Guide to Program Analysis: A Journey with Large Language Models *(arXiv, 2023)*](https://arxiv.org/abs/2308.00245)
