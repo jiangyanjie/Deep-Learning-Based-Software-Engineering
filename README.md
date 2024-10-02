@@ -742,7 +742,7 @@ We warmly welcome authors of relevant papers to actively submit their work to th
   - [Expertise browser: A quantitative approach to identifying expertise *(ICSE, 2002)*](https://ieeexplore.ieee.org/document/1007994)
 
 # Technical Debt
-  -[Large language model ChatGPT versus small deep learning models for self‐admitted technical debt detection: Why not together?](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.3360)
+  - [Large language model ChatGPT versus small deep learning models for self‐admitted technical debt detection: Why not together?](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.3360)
 
 ##### Contributors
 
